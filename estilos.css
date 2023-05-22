@@ -1,0 +1,28 @@
+
+body {
+    background-color: hsl(0, 0%, 100%);
+  }
+  .textfoto1{color:brown
+    
+  }
+  .logo{
+    float: left;
+    border: 15px; color: brown;
+  
+  }
+  .img2{
+    float: left;
+
+  }
+  .img1{
+  float:right
+
+  }
+
+.redes{
+display: flex;
+justify-content: space-between;
+
+}
+
+
